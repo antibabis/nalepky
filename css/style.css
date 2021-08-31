@@ -1,6 +1,11 @@
 *{
     line-height: 2;
 }
+.jumbotron{
+    background:#ed1c24;
+    color:white
+
+}
 @media(max-width:790px){
     #logo{
         width:100%;
